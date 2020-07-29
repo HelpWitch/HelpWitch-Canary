@@ -1,0 +1,25 @@
+{
+  "name": "helpwitch",
+  "version": "0.0.1",
+  "description": "The client that helps you in game",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelpWitch/HelpWitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelpWitch/HelpWitch/issues"
+  },
+  "homepage": "https://github.com/HelpWitch/HelpWitch#readme",
+  "dependencies": {
+    "semantic-ui-react": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron": "^9.1.2"
+  }
+}
