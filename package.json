@@ -1,8 +1,8 @@
 {
-  "name": "semantic-ui-app",
+  "name": "Also Try WEMOD",
   "version": "0.1.0",
   "main": "main.js",
-  "description": "Semantic UI App",
+  "description": "HelpWitch",
   "license": "",
   "dependencies": {
     "electron": "^1.6.11",
