@@ -1,16 +1,3 @@
-# semantic-ui-app
+Probably never gonna happen..
 
-To install:
-`npm install`
-
-To Run:
-
-`npm start` or `electron .`
-
-## Dependencies:
-
-Managed by npm.
-
- 1. [Semantic UI](https://semantic-ui.com)
- 2. [Electron](https://electron.atom.io/)
- 3. mocked documentation generated here: http://www.lipsum.com/
+Basically the main idea was it supposed to show the gameplay footage of the specific quest of game player was playing on a overlay menu but i don't have money nor passion for this project.
